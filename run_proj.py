@@ -22,3 +22,11 @@ ros.DBInitializer()
 #should specify to create dataset.py inside of new research_objects folder
 
 #typo: Data Objects are custom defined IN each project
+
+#should also specify that data_objects is different than dataset and 
+#it is just a little strange bc we made a new file (dataset.py) but then we need another new file (data_objects.py) to paste the new code into
+#I'm assuming I paste the new code into data_objects but thats also not specified
+
+#code & comments in research_objects/data_objects
+
+#how you did "Type the following into research_objects/datasets.py:" is really helpful
