@@ -30,3 +30,6 @@ ros.DBInitializer()
 #code & comments in research_objects/data_objects
 
 #how you did "Type the following into research_objects/datasets.py:" is really helpful
+
+#STEP 4
+# i like how simple it was
