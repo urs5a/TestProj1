@@ -37,3 +37,12 @@ ros.DBInitializer()
 #STEP 5
 # also very simple, code still works
 # question: to test this, I'm just running this (run_proj.py) file, does that work? should I also be running a different file?
+# TYPE, said to make "logsheets.py", should be "logsheet.py"
+
+#STEP 6 below
+from research_objects import logsheet as lg
+from research_objects import dataset as ds
+
+lg.logsheet.read_logsheet()
+
+
