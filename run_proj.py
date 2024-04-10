@@ -33,3 +33,7 @@ ros.DBInitializer()
 
 #STEP 4
 # i like how simple it was
+
+#STEP 5
+# also very simple, code still works
+# question: to test this, I'm just running this (run_proj.py) file, does that work? should I also be running a different file?
