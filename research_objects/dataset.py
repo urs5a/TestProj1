@@ -8,4 +8,5 @@ dataset.schema = [
     [ros.Dataset, Subject],
     [Subject, Trial]
 ]
-dataset.dataset_path = "your_project_folder/data" #is this just the path to our dummy_data? if the dummy data is already in the Testproj1 folder do I need a path?
+dataset.dataset_path = "C:\\Users\\14156\\Desktop\\Stevens\\UrsulaFolderResearchOS\\TestProj1\\Data" 
+#is this just the path to our dummy_data? if the dummy data is already in the Testproj1 folder do I need a path?
